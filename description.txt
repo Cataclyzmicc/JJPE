@@ -1,0 +1,31 @@
+Hello! Welcome to my second mod, a mod modelled after JoJo's Bizarre Adventures!
+NOTE: THIS MOD CURRENTLY DOES NOT HAVE THE BELOW THINGS.  I REPEAT, THE
+THINGS STATED BELOW ARE *PLANNED*, NOT CURRENTLY IMPLEMENTED.
+THIS IS THE BEGINNING OF A TEST TO CONNECT THE MOD WITH GITHUB.
+THE MOD HAS NOT REACHED V0.1 YET.
+
+------------------------
+[c/F8A11D:Additions this mod (plans to) add:]
+------------------------
+・The ability to choose between using Hamon, using a Stand, or being a Vampire!
+・An entire combat system for Hamon users!
+・The ability to choose how your Stand will act. (Melee, Ranged, Magic)
+・A health boosting system for Vampires!
+・Different Vanity sets from JoJo's Bizarre Adventures.
+・Vanities for your Stand, to make it look like iconic stands from the series.
+・New Bosses, as characters from JJBA!
+・Characters from JJBA as NPCs.
+・Much more planned content in the future!
+------------------------
+
+----------
+[c/FF5757:Changelogs]
+----------
+・V0.1
+    - New icon added!
+	- First items being implemented.  One of each type, i.e. Armor, Weapon, NPC.
+
+---------
+[c/49E7BF:Bug Fixes]
+---------
+・no bugs rn lol the mod isnt even out

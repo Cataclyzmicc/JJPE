@@ -1,0 +1,9 @@
+author = Cataclyzmic
+version = 0.1
+displayName = [c/7B42A1:JimJim's Peculiar Escapades]
+homepage = https://discord.gg/2SU4V4b
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
